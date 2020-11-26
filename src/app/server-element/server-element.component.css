@@ -1,0 +1,11 @@
+p {
+    color: blue;
+  }
+  
+
+  /* note: label is actually in cockpit component */
+  /* this is to demonstrate that the css style here */
+  /* would be applied globally */
+  label{
+      color: red;
+  }
